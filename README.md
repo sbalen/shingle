@@ -1,2 +1,2 @@
 # shingle
-A class that helps build simple language models
+A library with classes that helps build simple language models
